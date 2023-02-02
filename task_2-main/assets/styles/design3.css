@@ -53,15 +53,16 @@ figure #imagen{
     left: 35%;
 }
 .container li{
-   font-size: 22px;
+   font-size: 16px;
    text-align: left;
    margin-right: 300px;
+   padding: 5px;
 }
 #sub_titulo_rules{
     background-color:rgb(244, 244, 53);
 }
 dd{
-    font-size: 22px;
+    font-size: 16px;
    text-align: left; 
    margin-right: 300px;
 }
@@ -87,4 +88,5 @@ td{
 .container p{
     display: block;
     font-size: 18px;
+    padding: 3px;
 }
